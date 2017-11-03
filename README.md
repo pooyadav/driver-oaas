@@ -1,10 +1,21 @@
 # Occupancy-as-a-Service
-<<<<<<< Updated upstream
+
 Occupancy-as-a-Service App 
 
 Clone this repo and build 
 
 docker build -t  driver-oaas .
-=======
-Occupancy-as-a-Service Python App.
->>>>>>> Stashed changes
+
+and 
+
+docker run --name driver-oaas -i -t driver-oaas 
+
+and
+
+docker exec -t -i driver-oaas /bin/bash
+
+Once you are login
+
+cd src
+
+python3 2A.py
