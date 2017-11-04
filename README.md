@@ -26,13 +26,21 @@ python3 2A.py
 This docker image is installed with python 3.5 with following packages.
 
 bleach (1.5.0)
+
 certifi (2017.7.27.1)
+
 click (6.7)
+
 enum34 (1.1.6)
+
 Flask (0.12.2)
+
 html5lib (0.9999999)
+
 itsdangerous (0.24)
+
 Jinja2 (2.9.6)
+
 Markdown (2.6.9)
 MarkupSafe (1.0)
 numpy (1.13.1)
