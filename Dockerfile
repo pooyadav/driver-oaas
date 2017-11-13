@@ -1,9 +1,9 @@
 FROM phiwal/py3.5-tensorflow-opencv
 MAINTAINER DataBox <p.yadav@acm.org>
 
-ADD .  /app
+ADD .  /oaas
 
-WORKDIR /app
+WORKDIR /oaas
 
 RUN echo "Hello User!"
 
