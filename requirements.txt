@@ -3,7 +3,6 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 urllib3==1.21.1
-certifi==2017.07.27.1
 enum34 >= 1.1.6
 pandas==0.20.3
 Pillow==4.2.1
