@@ -1,5 +1,7 @@
 # Occupancy-as-a-Service
 
+Thos docker file is for x86 architecture. 
+
 Occupancy-as-a-Service App 
 
 Clone this repo and build 
