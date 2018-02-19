@@ -1,6 +1,6 @@
 FROM armhf/debian
 
-MAINTAINER Sergey Melnik <admin.sa@gmail.com>
+MAINTAINER Poonam Yadav
 
 RUN apt-get update && \
     apt-get -q -y install --no-install-recommends python3 \
