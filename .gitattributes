@@ -2,3 +2,5 @@
 *.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 model/20170216-091149/model-20170216-091149.ckpt-250000.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 model-20170216-091149.ckpt-250000.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model/20170216-091149/model-20170216-091149.ckpt-250000.index filter=lfs diff=lfs merge=lfs -text
+model/20170216-091149/model-20170216-091149.meta filter=lfs diff=lfs merge=lfs -text
